@@ -29,5 +29,5 @@ jobs:
       - name: Run main.py
         env:
           OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
-          NEON_DB_URL: ${{ secrets.MONGO_URI }}
+          MONGO_URI: ${{ secrets.MONGO_URI }}
         run: python main.py
