@@ -28,7 +28,7 @@ def fetch_weather(lat, lon):
 # ---- SAVE TO MONGODB ----
 def save_weather_to_mongodb(city_id, w):
     client = MongoClient(MONGO_URI)
-    db = client.get_database()  # Uses the database defined in the URI
+    db = client["germany_weather_db"]
     collection = db.weather_data
 
     # Convert timestamps to UTC datetime
