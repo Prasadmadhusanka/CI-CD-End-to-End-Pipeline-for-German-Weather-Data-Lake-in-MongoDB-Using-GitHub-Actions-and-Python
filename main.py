@@ -5,6 +5,7 @@ import json
 import os
 from datetime import datetime, timezone
 from pymongo import MongoClient
+from pymongo.server_api import ServerApi
 
 # ---- CONFIG ----
 OPENWEATHER_API_KEY = os.getenv("OPENWEATHER_API_KEY")
@@ -27,7 +28,10 @@ def fetch_weather(lat, lon):
 
 # ---- SAVE TO MONGODB ----
 def save_weather_to_mongodb(city_id, w):
-    client = MongoClient(MONGO_URI)
+    client = MongoClient(
+        MONGO_URI,
+        server_api=ServerApi("1")
+    )
     db = client["germany_weather_db"]
     collection = db.weather_data
 
