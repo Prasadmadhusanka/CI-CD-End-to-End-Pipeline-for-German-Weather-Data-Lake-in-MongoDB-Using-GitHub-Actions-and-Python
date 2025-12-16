@@ -1,0 +1,1310 @@
+{
+  "type": "FeatureCollection",
+  "name": "germany_cities",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Berlin",
+        "city_name": "Berlin",
+        "longitude": 13.405,
+        "latitude": 52.52,
+        "elevation": 45.0,
+        "state_id": "Berlin",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Berlin.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [13.405, 52.52] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Hamburg",
+        "city_name": "Hamburg",
+        "longitude": 9.9937,
+        "latitude": 53.5511,
+        "elevation": 11.0,
+        "state_id": "Hamburg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Hamburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.9937, 53.5511] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Munich",
+        "city_name": "Munich",
+        "longitude": 11.582,
+        "latitude": 48.1351,
+        "elevation": 518.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Munich.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.582, 48.1351] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Colonge",
+        "city_name": "Colonge",
+        "longitude": 6.9603,
+        "latitude": 50.9375,
+        "elevation": 56.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Colonge.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.9603, 50.9375] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Frankfurt_am_Main",
+        "city_name": "Frankfurt am Main",
+        "longitude": 8.6821,
+        "latitude": 50.1109,
+        "elevation": 104.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Frankfurt_am_Main.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.6821, 50.1109] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Stuttgart",
+        "city_name": "Stuttgart",
+        "longitude": 9.1829,
+        "latitude": 48.7758,
+        "elevation": 247.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Stuttgart.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.1829, 48.7758] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Düsseldorf",
+        "city_name": "Düsseldorf",
+        "longitude": 6.7735,
+        "latitude": 51.2277,
+        "elevation": 41.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Düsseldorf.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.7735, 51.2277] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Leipzig",
+        "city_name": "Leipzig",
+        "longitude": 12.3731,
+        "latitude": 51.3397,
+        "elevation": 119.0,
+        "state_id": "Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Leipzig.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.3731, 51.3397] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Dortmund",
+        "city_name": "Dortmund",
+        "longitude": 7.4653,
+        "latitude": 51.5136,
+        "elevation": 95.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Dortmund.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.4653, 51.5136] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Essen",
+        "city_name": "Essen",
+        "longitude": 7.0123,
+        "latitude": 51.4556,
+        "elevation": 87.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Essen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.0123, 51.4556] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bremen",
+        "city_name": "Bremen",
+        "longitude": 8.8017,
+        "latitude": 53.0793,
+        "elevation": 13.0,
+        "state_id": "Bremen",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bremen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.8017, 53.0793] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Dresden",
+        "city_name": "Dresden",
+        "longitude": 13.7373,
+        "latitude": 51.0504,
+        "elevation": 118.0,
+        "state_id": "Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Dresden.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [13.7373, 51.0504] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Hannover",
+        "city_name": "Hannover",
+        "longitude": 9.732,
+        "latitude": 52.3759,
+        "elevation": 59.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Hannover.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.732, 52.3759] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Nuremberg",
+        "city_name": "Nuremberg",
+        "longitude": 11.0733,
+        "latitude": 49.4506,
+        "elevation": 316.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Nuremberg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.0733, 49.4506] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Duisburg",
+        "city_name": "Duisburg",
+        "longitude": 6.7623,
+        "latitude": 51.4344,
+        "elevation": 36.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Duisburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.7623, 51.4344] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bochum",
+        "city_name": "Bochum",
+        "longitude": 7.2162,
+        "latitude": 51.4818,
+        "elevation": 101.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bochum.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.2162, 51.4818] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Wuppertal",
+        "city_name": "Wuppertal",
+        "longitude": 7.1508,
+        "latitude": 51.2562,
+        "elevation": 160.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Wuppertal.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.1508, 51.2562] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bielefeld",
+        "city_name": "Bielefeld",
+        "longitude": 8.5325,
+        "latitude": 52.0302,
+        "elevation": 118.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bielefeld.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.5325, 52.0302] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bonn",
+        "city_name": "Bonn",
+        "longitude": 7.0982,
+        "latitude": 50.7374,
+        "elevation": 67.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bonn.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.0982, 50.7374] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Münster",
+        "city_name": "Münster",
+        "longitude": 7.6296,
+        "latitude": 51.9607,
+        "elevation": 70.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Münster.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.6296, 51.9607] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Mannheim",
+        "city_name": "Mannheim",
+        "longitude": 8.467,
+        "latitude": 49.4875,
+        "elevation": 101.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Mannheim.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.467, 49.4875] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Karlsruhe",
+        "city_name": "Karlsruhe",
+        "longitude": 8.4037,
+        "latitude": 49.0069,
+        "elevation": 120.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Karlsruhe.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.4037, 49.0069] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Augsburg",
+        "city_name": "Augsburg",
+        "longitude": 10.8978,
+        "latitude": 48.3705,
+        "elevation": 494.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Augsburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.8978, 48.3705] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Wiesbaden",
+        "city_name": "Wiesbaden",
+        "longitude": 8.2415,
+        "latitude": 50.0782,
+        "elevation": 120.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Wiesbaden.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.2415, 50.0782] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Mönchengladbach",
+        "city_name": "Mönchengladbach",
+        "longitude": 6.4417,
+        "latitude": 51.1805,
+        "elevation": 56.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Mönchengladbach.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.4417, 51.1805] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Gelsenkirchen",
+        "city_name": "Gelsenkirchen",
+        "longitude": 7.1006,
+        "latitude": 51.5111,
+        "elevation": 53.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Gelsenkirchen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.1006, 51.5111] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Aachen",
+        "city_name": "Aachen",
+        "longitude": 6.0839,
+        "latitude": 50.7753,
+        "elevation": 178.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Aachen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.0839, 50.7753] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Braunschweig",
+        "city_name": "Braunschweig",
+        "longitude": 10.5268,
+        "latitude": 52.2689,
+        "elevation": 70.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Braunschweig.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.5268, 52.2689] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Kiel",
+        "city_name": "Kiel",
+        "longitude": 10.1228,
+        "latitude": 54.3233,
+        "elevation": 19.0,
+        "state_id": "Schleswig-Holstein",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Kiel.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.1228, 54.3233] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Chemnitz",
+        "city_name": "Chemnitz",
+        "longitude": 12.9253,
+        "latitude": 50.8278,
+        "elevation": 305.0,
+        "state_id": "Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Chemnitz.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.9253, 50.8278] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Halle ",
+        "city_name": "Halle ",
+        "longitude": 11.9688,
+        "latitude": 51.4969,
+        "elevation": 106.0,
+        "state_id": "Saxony-Anhalt",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Halle.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.9688, 51.4969] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Magdeburg",
+        "city_name": "Magdeburg",
+        "longitude": 11.6276,
+        "latitude": 52.1205,
+        "elevation": 60.0,
+        "state_id": "Saxony-Anhalt",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Magdeburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.6276, 52.1205] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Freiburg_im_Breisgau",
+        "city_name": "Freiburg im Breisgau",
+        "longitude": 7.8522,
+        "latitude": 47.999,
+        "elevation": 275.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Freiburg_im_Breisgau.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.8522, 47.999] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Krefeld",
+        "city_name": "Krefeld",
+        "longitude": 6.5794,
+        "latitude": 51.3388,
+        "elevation": 39.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Krefeld.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.5794, 51.3388] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Mainz",
+        "city_name": "Mainz",
+        "longitude": 8.2473,
+        "latitude": 49.9929,
+        "elevation": 123.0,
+        "state_id": "Rhineland-Palatinate",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Mainz.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.2473, 49.9929] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Lübeck",
+        "city_name": "Lübeck",
+        "longitude": 10.6866,
+        "latitude": 53.8655,
+        "elevation": 15.0,
+        "state_id": "Schleswig-Holstein",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Lübeck.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.6866, 53.8655] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Erfurt",
+        "city_name": "Erfurt",
+        "longitude": 11.0299,
+        "latitude": 50.9848,
+        "elevation": 191.0,
+        "state_id": "Thuringia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Erfurt.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.0299, 50.9848] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Oberhausen",
+        "city_name": "Oberhausen",
+        "longitude": 6.85222,
+        "latitude": 51.4702,
+        "elevation": 41.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Oberhausen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.85222, 51.4702] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Rostock",
+        "city_name": "Rostock",
+        "longitude": 12.0991,
+        "latitude": 54.0924,
+        "elevation": 10.0,
+        "state_id": "Mecklenburg-Vorpommern",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Rostock.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.0991, 54.0924] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Kassel",
+        "city_name": "Kassel",
+        "longitude": 9.4797,
+        "latitude": 51.3127,
+        "elevation": 177.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Kassel.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.4797, 51.3127] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Hagen",
+        "city_name": "Hagen",
+        "longitude": 7.4717,
+        "latitude": 51.3671,
+        "elevation": 152.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Hagen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.4717, 51.3671] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Potsdam",
+        "city_name": "Potsdam",
+        "longitude": 13.0645,
+        "latitude": 52.3906,
+        "elevation": 36.0,
+        "state_id": "Brandenburg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Potsdam.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [13.0645, 52.3906] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Saarbrücken",
+        "city_name": "Saarbrücken",
+        "longitude": 6.9969,
+        "latitude": 49.2402,
+        "elevation": 196.0,
+        "state_id": "Saarland",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Saarbrücken.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.9969, 49.2402] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Hamm",
+        "city_name": "Hamm",
+        "longitude": 7.808,
+        "latitude": 51.6806,
+        "elevation": 64.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Hamm.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.808, 51.6806] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Ludwigshafen_am_Rhein",
+        "city_name": "Ludwigshafen am Rhein",
+        "longitude": 8.4464,
+        "latitude": 49.4774,
+        "elevation": 97.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Ludwigshafen_am_Rhein.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.4464, 49.4774] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Mülheim_an_der_Ruhr",
+        "city_name": "Mülheim an der Ruhr",
+        "longitude": 6.8827,
+        "latitude": 51.427,
+        "elevation": 45.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Mülheim_an_der_Ruhr.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.8827, 51.427] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Oldenburg",
+        "city_name": "Oldenburg",
+        "longitude": 8.2146,
+        "latitude": 53.1435,
+        "elevation": 8.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Oldenburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.2146, 53.1435] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Osnabrück",
+        "city_name": "Osnabrück",
+        "longitude": 8.0472,
+        "latitude": 52.2799,
+        "elevation": 67.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Osnabrück.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.0472, 52.2799] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Leverkusen",
+        "city_name": "Leverkusen",
+        "longitude": 7.0038,
+        "latitude": 51.0459,
+        "elevation": 54.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Leverkusen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.0038, 51.0459] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Darmstadt",
+        "city_name": "Darmstadt",
+        "longitude": 8.6512,
+        "latitude": 49.8728,
+        "elevation": 151.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Darmstadt.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.6512, 49.8728] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Heidelberg",
+        "city_name": "Heidelberg",
+        "longitude": 8.6908,
+        "latitude": 49.3988,
+        "elevation": 121.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Heidelberg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.6908, 49.3988] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Solingen",
+        "city_name": "Solingen",
+        "longitude": 7.083,
+        "latitude": 51.165,
+        "elevation": 207.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Solingen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.083, 51.165] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Herne",
+        "city_name": "Herne",
+        "longitude": 7.2197,
+        "latitude": 51.5369,
+        "elevation": 67.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Herne.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.2197, 51.5369] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Regensburg",
+        "city_name": "Regensburg",
+        "longitude": 12.1016,
+        "latitude": 49.0134,
+        "elevation": 346.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Regensburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.1016, 49.0134] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Neuss",
+        "city_name": "Neuss",
+        "longitude": 6.6917,
+        "latitude": 51.2042,
+        "elevation": 35.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Neuss.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.6917, 51.2042] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Paderborn",
+        "city_name": "Paderborn",
+        "longitude": 8.7544,
+        "latitude": 51.7189,
+        "elevation": 115.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Paderborn.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.7544, 51.7189] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Ingolstadt",
+        "city_name": "Ingolstadt",
+        "longitude": 11.4257,
+        "latitude": 48.7651,
+        "elevation": 376.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Ingolstadt.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.4257, 48.7651] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Offenbach_am_Main",
+        "city_name": "Offenbach am Main",
+        "longitude": 8.7665,
+        "latitude": 50.0956,
+        "elevation": 111.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Offenbach_am_Main.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.7665, 50.0956] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Fürth",
+        "city_name": "Fürth",
+        "longitude": 10.9887,
+        "latitude": 49.4773,
+        "elevation": 300.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Fürth.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.9887, 49.4773] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Ulm",
+        "city_name": "Ulm",
+        "longitude": 9.9934,
+        "latitude": 48.4011,
+        "elevation": 479.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Ulm.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.9934, 48.4011] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Würzburg",
+        "city_name": "Würzburg",
+        "longitude": 9.958,
+        "latitude": 49.7913,
+        "elevation": 242.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Würzburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.958, 49.7913] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Heilbronn",
+        "city_name": "Heilbronn",
+        "longitude": 9.2205,
+        "latitude": 49.1427,
+        "elevation": 160.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Heilbronn.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.2205, 49.1427] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Pforzheim",
+        "city_name": "Pforzheim",
+        "longitude": 8.6947,
+        "latitude": 48.8847,
+        "elevation": 268.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Pforzheim.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.6947, 48.8847] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Wolfsburg",
+        "city_name": "Wolfsburg",
+        "longitude": 10.7865,
+        "latitude": 52.4227,
+        "elevation": 68.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Wolfsburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.7865, 52.4227] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bottrop",
+        "city_name": "Bottrop",
+        "longitude": 6.9285,
+        "latitude": 51.5232,
+        "elevation": 55.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bottrop.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.9285, 51.5232] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Göttingen",
+        "city_name": "Göttingen",
+        "longitude": 9.934,
+        "latitude": 51.5413,
+        "elevation": 152.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Göttingen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.934, 51.5413] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Reutlingen",
+        "city_name": "Reutlingen",
+        "longitude": 9.2109,
+        "latitude": 48.4914,
+        "elevation": 385.0,
+        "state_id": "Baden-Württemberg",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Reutlingen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.2109, 48.4914] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Koblenz",
+        "city_name": "Koblenz",
+        "longitude": 7.5889,
+        "latitude": 50.3569,
+        "elevation": 71.0,
+        "state_id": "Rhineland-Palatinate",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Koblenz.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.5889, 50.3569] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Erlangen",
+        "city_name": "Erlangen",
+        "longitude": 11.0038,
+        "latitude": 49.5897,
+        "elevation": 280.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Erlangen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.0038, 49.5897] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bremerhaven",
+        "city_name": "Bremerhaven",
+        "longitude": 8.5775,
+        "latitude": 53.5396,
+        "elevation": 4.0,
+        "state_id": "Bremen",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bremerhaven.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.5775, 53.5396] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Remscheid",
+        "city_name": "Remscheid",
+        "longitude": 7.1925,
+        "latitude": 51.1787,
+        "elevation": 327.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Remscheid.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.1925, 51.1787] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bergisch_Gladbach",
+        "city_name": "Bergisch Gladbach",
+        "longitude": 7.136,
+        "latitude": 50.9853,
+        "elevation": 104.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bergisch_Gladbach.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.136, 50.9853] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Recklinghausen",
+        "city_name": "Recklinghausen",
+        "longitude": 7.197,
+        "latitude": 51.6141,
+        "elevation": 78.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Recklinghausen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [7.197, 51.6141] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Trier",
+        "city_name": "Trier",
+        "longitude": 6.6413,
+        "latitude": 49.7499,
+        "elevation": 145.0,
+        "state_id": "Rhineland-Palatinate",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Trier.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.6413, 49.7499] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Jena",
+        "city_name": "Jena",
+        "longitude": 11.586,
+        "latitude": 50.9271,
+        "elevation": 153.0,
+        "state_id": "Thuringia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Jena.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.586, 50.9271] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Moers",
+        "city_name": "Moers",
+        "longitude": 6.6278,
+        "latitude": 51.4592,
+        "elevation": 27.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Moers.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [6.6278, 51.4592] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Salzgitter",
+        "city_name": "Salzgitter",
+        "longitude": 10.3341,
+        "latitude": 52.1605,
+        "elevation": 88.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Salzgitter.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.3341, 52.1605] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Siegen",
+        "city_name": "Siegen",
+        "longitude": 8.024,
+        "latitude": 50.8748,
+        "elevation": 267.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Siegen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.024, 50.8748] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Gütersloh",
+        "city_name": "Gütersloh",
+        "longitude": 8.3858,
+        "latitude": 51.904,
+        "elevation": 84.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Gütersloh.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.3858, 51.904] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Hildesheim",
+        "city_name": "Hildesheim",
+        "longitude": 9.9534,
+        "latitude": 52.1548,
+        "elevation": 90.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Hildesheim.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.9534, 52.1548] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Flensburg",
+        "city_name": "Flensburg",
+        "longitude": 9.4333,
+        "latitude": 54.7833,
+        "elevation": 37.0,
+        "state_id": "Schleswig-Holstein",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Flensburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.4333, 54.7833] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Marburg",
+        "city_name": "Marburg",
+        "longitude": 8.7721,
+        "latitude": 50.8067,
+        "elevation": 185.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Marburg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.7721, 50.8067] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Wilhelmshaven",
+        "city_name": "Wilhelmshaven",
+        "longitude": 8.11253,
+        "latitude": 53.53,
+        "elevation": 1.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Wilhelmshaven.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.11253, 53.53] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Fulda",
+        "city_name": "Fulda",
+        "longitude": 9.6808,
+        "latitude": 50.5558,
+        "elevation": 280.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Fulda.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.6808, 50.5558] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Cuxhaven",
+        "city_name": "Cuxhaven",
+        "longitude": 8.6879,
+        "latitude": 53.8593,
+        "elevation": 2.0,
+        "state_id": "Lower_Saxony",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Cuxhaven.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.6879, 53.8593] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Stralsund",
+        "city_name": "Stralsund",
+        "longitude": 13.0818,
+        "latitude": 54.309,
+        "elevation": 5.0,
+        "state_id": "Mecklenburg-Vorpommern",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Stralsund.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [13.0818, 54.309] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Eisenach",
+        "city_name": "Eisenach",
+        "longitude": 10.32,
+        "latitude": 50.98,
+        "elevation": 215.0,
+        "state_id": "Thuringia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Eisenach.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.32, 50.98] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bad_Hersfeld",
+        "city_name": "Bad Hersfeld",
+        "longitude": 9.7089,
+        "latitude": 50.8667,
+        "elevation": 211.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bad_Hersfeld.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.7089, 50.8667] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Garmisch-Partenkirchen",
+        "city_name": "Garmisch-Partenkirchen",
+        "longitude": 11.0958,
+        "latitude": 47.4921,
+        "elevation": 704.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Garmisch-Partenkirchen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.0958, 47.4921] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Sonthofen",
+        "city_name": "Sonthofen",
+        "longitude": 10.2813,
+        "latitude": 47.5208,
+        "elevation": 747.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Sonthofen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.2813, 47.5208] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bad_Reichenhall",
+        "city_name": "Bad Reichenhall",
+        "longitude": 12.8756,
+        "latitude": 47.7231,
+        "elevation": 473.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bad_Reichenhall.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.8756, 47.7231] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Bad_Wildungen",
+        "city_name": "Bad Wildungen",
+        "longitude": 9.1245,
+        "latitude": 51.1197,
+        "elevation": 280.0,
+        "state_id": "Hesse",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Bad_Wildungen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [9.1245, 51.1197] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Füssen",
+        "city_name": "Füssen",
+        "longitude": 10.7003,
+        "latitude": 47.5719,
+        "elevation": 799.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Füssen.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.7003, 47.5719] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Sylt",
+        "city_name": "Sylt",
+        "longitude": 8.318,
+        "latitude": 54.9083,
+        "elevation": 7.0,
+        "state_id": "Schleswig-Holstein",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Sylt.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.318, 54.9083] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Winterberg",
+        "city_name": "Winterberg",
+        "longitude": 8.5347,
+        "latitude": 51.1921,
+        "elevation": 676.0,
+        "state_id": "North_Rhine-Westphalia",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Winterberg.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [8.5347, 51.1921] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Oberstdorf",
+        "city_name": "Oberstdorf",
+        "longitude": 10.2794,
+        "latitude": 47.4096,
+        "elevation": 814.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Oberstdorf.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [10.2794, 47.4096] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Berchtesgaden",
+        "city_name": "Berchtesgaden",
+        "longitude": 13.0,
+        "latitude": 47.6306,
+        "elevation": 581.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Berchtesgaden.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [13.0, 47.6306] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Schliersee",
+        "city_name": "Schliersee",
+        "longitude": 11.8636,
+        "latitude": 47.7361,
+        "elevation": 797.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Schliersee.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.8636, 47.7361] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Mittenwald",
+        "city_name": "Mittenwald",
+        "longitude": 11.2641,
+        "latitude": 47.4427,
+        "elevation": 915.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Mittenwald.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [11.2641, 47.4427] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city_id": "Reit_im_Winkl",
+        "city_name": "Reit im Winkl",
+        "longitude": 12.4703,
+        "latitude": 47.6772,
+        "elevation": 696.0,
+        "state_id": "Bavaria",
+        "image_url": "https://raw.githubusercontent.com/Prasadmadhusanka/pm-data-files/main/images/german_city_flags/Flag_of_Reit_im_Winkl.svg"
+      },
+      "geometry": { "type": "Point", "coordinates": [12.4703, 47.6772] }
+    }
+  ]
+}
