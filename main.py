@@ -4,6 +4,7 @@ import requests
 import json
 import os
 from datetime import datetime, timezone
+import time
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
 
@@ -74,8 +75,13 @@ def main():
         lon = city["longitude"]
         city_id = city["city_id"]
 
-        weather_json = fetch_weather(lat, lon)
-        save_weather_to_mongodb(city_id, weather_json)
+        try:
+            weather_json = fetch_weather(lat, lon)
+            save_weather_to_mongodb(city_id, weather_json)
+        except Exception as e:
+            print(f"Error fetching/saving weather for {city_id}: {e}")
+
+        time.sleep(1.2)
 
     print("Weather data successfully saved to MongoDB!")
 

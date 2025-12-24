@@ -5,7 +5,7 @@ name: Fetch Germany Weather
 # Trigger workflow every 4 hours and allow manual trigger
 on:
   schedule:
-    - cron: "0 */4 * * *" # every 4 hours
+    - cron: "0 * * * *" # every hour at minute 0
   workflow_dispatch:
 
 jobs:
