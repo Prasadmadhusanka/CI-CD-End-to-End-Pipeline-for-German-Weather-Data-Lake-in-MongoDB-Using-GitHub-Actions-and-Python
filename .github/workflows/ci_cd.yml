@@ -2,7 +2,7 @@
 
 name: Fetch Germany Weather
 
-# Trigger workflow every 4 hours and allow manual trigger
+# Trigger workflow every hour and allow manual trigger
 on:
   schedule:
     - cron: "0 * * * *" # every hour at minute 0
@@ -10,7 +10,7 @@ on:
 
 jobs:
   fetch_weather:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
       - name: Checkout code
